@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Wowchemy Research Group # Website name
-baseurl: '' # Website URL
+baseurl: 'https://samueldi.github.io/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
@@ -77,3 +77,9 @@ related:
       weight: 100
     - name: categories
       weight: 70
+# Added by Sam (https://stackoverflow.com/questions/70429317/blogdownserve-site-fails-to-produce-template-site)
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_
