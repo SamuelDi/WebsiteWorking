@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://samtiefolodiabate.github.io/sitemap.xml
