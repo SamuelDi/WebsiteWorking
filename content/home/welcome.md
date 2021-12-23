@@ -4,20 +4,18 @@
 # Add more sections by duplicating this file and customizing to your requirements.
 
 widget: hero  # See https://wowchemy.com/docs/page-builder/
+active: false # I don't want that for now
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: |
-  Wowchemy  
-  Research Group
-hero_media: welcome.jpg
+title: "Home"
+subtitle: ""
+hero_media: sam.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
-  # Add custom styles
+advanced:
   css_style:
   css_class:
 ---
 
-<br>
-
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+I am a PhD student in Physical Oceanography at Maynooth University, Ireland. I work under the supervision of Dr. Gerard McCarthy. I am part of the A4 (Aigéin, Aeráid, agus athrú Atlantaigh) team of researcher.
