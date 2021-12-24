@@ -1,3 +1,22 @@
+STEPS:
+Modify the contents within WebsiteWorking > contents
+run
+$ hugo
+from WebsiteWorking directory
+
+then
+$ cd public
+$ git add .
+$ git commit -m "whatever"
+$ git push -f https://github.com/SamuelDi/SamuelDi.github.io.git
+
+Don't forget to also commit the whole website repository, which has an associated (and separated) repository than the website.
+$ cd ..
+$ git add .
+$ git commit -m "Whatever commit"
+$ git push -u origin main
+
+
 # Wowchemy's Research Group Template for [Hugo](https://github.com/gohugoio/hugo)
 
 The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.

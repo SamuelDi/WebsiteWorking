@@ -8,7 +8,7 @@ image:
   focal_point: Right
 
 ---
-Today (Nov 18, 2021), the A4 team hosted the A4 annual meeting and presented some of their latest research material. In the past year, our team has grown bigger and is now more than ever a very exciting environment to work in. Not everyone is there on this picture, but there is (from left to right): Levke Caesar (WP1), Niahm Cahill (WP2), Samantha Hallam (ROADMAP), Maeve Upton (WP2), André Düsterhus (WP2), Emma Worthington (NOC) (top row), Gerard McCarthy (WP1), Catherine O'Beirne (WP2), me (WP1), Zoe Roseby (WP3), Fermin Alvarez (WP3) (bottom row).  
+Today (Nov 18, 2021), the A4 team hosted the A4 annual meeting and presented some of their latest research material. In the past year, our team has grown bigger and is now more than ever a very exciting environment to work in. Not everyone is there on this picture, but there is (from left to right): Levke Caesar (WP1), Niamh Cahill (WP2), Samantha Hallam (ROADMAP), Maeve Upton (WP2), André Düsterhus (WP2), Emma Worthington (NOC) (top row), Gerard McCarthy (WP1), Catherine O'Beirne (WP2), me (WP1), Zoe Roseby (WP3), Fermin Alvarez (WP3) (bottom row).  
 
 <!--more-->
 A4 (Aigéin, Aeráid, agus athrú Atlantaigh) is a project led by Gerard McCarthy which looks at Atlantic change, sea level, and decadal climate prediction. It is a project which gathers scientists from different research institute:  the Irish Climate Analysis and Research UnitS (ICARUS, Geography Dpt, Maynooth University), the Hamilton Institute (Maynooth University), and Trinity College Dublin (TCD). Most of us are part of ICARUS, and we effectively make up the oceanography section of this institute.
