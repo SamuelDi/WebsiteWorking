@@ -22,7 +22,7 @@ subtitle: As presented in the the publication 'Western boundary circulation and 
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
 ---
-The following link provides link towards the Gulf Stream North Wall (GSNW) index and the Kuroshio Extension (KE) index presented in the paper 'Western boundary circulation and coastal sea-level variability in Northern Hemisphere oceans', Samuel Tiéfolo Diabaté et al. (2021)
+The following link provides link towards the Gulf Stream North Wall (GSNW) index and the Kuroshio Extension (KE) index presented in the paper 'Western boundary circulation and coastal sea-level variability in Northern Hemisphere oceans' (Diabaté et al; 2021).
 https://doi.org/10.5281/zenodo.4659318
 
 

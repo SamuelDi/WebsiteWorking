@@ -63,7 +63,7 @@ address_format: en-us
 highlight: false
 math: false
 diagram: false
-privacy_pack: false
+privacy_pack: true
 show_related:
   post: true
   project: true
@@ -73,11 +73,11 @@ reading_time: true
 section_pager: false
 sharing: true
 copyright_license:
-  enable: false
+  enable: true
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
-  notice: 'This work is licensed under {license}'
+  notice: 'This website is licensed under {license}'
 plugins_js: []
 avatar:
   gravatar: false

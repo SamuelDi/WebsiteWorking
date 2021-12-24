@@ -21,7 +21,7 @@ bio: My research focuses on ocean currents and sea level.
 interests:
 - Ocean Dynamics
 - Sea level
-- Tide Gauge
+- Tide Gauges
 - Underwater Gliders
 
 education:
@@ -53,6 +53,12 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=41PkvwUAAAAJ&hl=fr&oi=ao
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Samuel_Diabate
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-6836-2265
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
