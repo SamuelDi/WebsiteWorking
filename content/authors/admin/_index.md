@@ -6,7 +6,7 @@ title: Sam Tiéfolo Diabaté
 superuser: true
 
 # Role/position
-role: PhD student in Physical Oceanography
+role: Doctorand in Physical Oceanography
 
 # Organizations/Affiliations
 organizations:
@@ -80,4 +80,6 @@ user_groups:
 - Researchers
 ---
 
-My name is Sam Tiéfolo Diabaté, and I am a PhD student in Physical Oceanography at Maynooth University, Ireland. I work under the supervision of Dr. Gerard McCarthy and we are part of the A4 (Aigéin, Aeráid, agus athrú Atlantaigh) team of researcher. My research focuses on oceanic currents and their relationship with sea level.
+My name is Sam Tiéfolo Diabaté, and I am a doctorand in Physical Oceanography at Maynooth University, Ireland. I work under the supervision of Dr. Gerard McCarthy and we are part of the A4 (Aigéin, Aeráid, agus athrú Atlantaigh) team of researcher. My research focuses on oceanic currents and their relationship with sea level.
+
+This website is intended for anyone interested in my research. Please be kind: bear in mind that english is not my native language. Do not hesitate to report to me any website feature not working.
