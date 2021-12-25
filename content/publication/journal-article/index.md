@@ -76,9 +76,11 @@ slides:
 ---
 
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-
 {{% callout note %}}
 Click the *DOI* button above to access the paper page on the journal website. Click the *PDF* button to access the PDF file directly. To import the publication metadata, you can click on the *Cite* button. The timeseries produced for this paper can be interesting to some, and they are freely available by clicking on the *Dataset* button above. Alternatively, these data can be found on this website, by navigating to the **Data** menu.
 {{% /callout %}}
+
+
+<!-- Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). -->
+
+A plain language explanation of the results of the paper and their implications for future research is given in this blog post.
