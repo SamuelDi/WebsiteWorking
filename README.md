@@ -16,6 +16,7 @@ $ git add .
 $ git commit -m "Whatever commit"
 $ git push -u origin main
 
+From time to time you will need to renew your GitHub temporary credentials (token) in order to make any commit.
 
 # Wowchemy's Research Group Template for [Hugo](https://github.com/gohugoio/hugo)
 

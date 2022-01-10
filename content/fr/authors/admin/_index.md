@@ -6,7 +6,7 @@ title: Sam Tiéfolo Diabaté
 superuser: true
 
 # Role/position
-role: Doctorand in Physical Oceanography
+role: Doctorant en Océanographie Physique
 
 # Organizations/Affiliations
 organizations:
@@ -16,26 +16,26 @@ organizations:
 #    url: "https://a-ceathair.github.io/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on ocean currents and sea level.
+bio: J'étudie les courants marins et le niveau de la mer.
 
 interests:
-- Ocean Dynamics
-- Sea level
-- Tide Gauges
-- Underwater Gliders
+- Dynamique des Océans
+- Niveau de la Mer
+- Marégraphes
+- Planeurs Sous-Marins (Gliders)
 
 education:
   courses:
-  - course: PhD in Physical Oceanography (ongoing)
+  - course: Doctorat en Océanographie Physique (en cours)
     institution: Maynooth University, Ireland
     year:
-  - course: MSc (Master 2) in Physical Oceanography
+  - course:  Master 2 - Océanographie et Applications
     institution: Université Toulouse III Paul Sabatier, France & International Chair In Mathematical Physics and Applications, Benin
     year: 2019
-  - course: MSc (Master 1) in Ocean, Atmosphere, and Climate Sciences
+  - course: Master 1 - Sciences de l'océan, de l'atmosphère et du climat
     institution: Université Toulouse III Paul Sabatier, France
     year: 2018
-  - course: BSc (Licence) in Engineering Sciences
+  - course: Licence Sciences pour l'Ingénieur
     institution: Université du Mans, France
     year: 2017
 
@@ -80,6 +80,8 @@ user_groups:
 - Researchers
 ---
 
-My name is Sam Tiéfolo Diabaté, and I am a doctorand in Physical Oceanography at Maynooth University, Ireland. I work under the supervision of Dr. Gerard McCarthy and we are part of the A4 (Aigéin, Aeráid, agus athrú Atlantaigh) team of scientists. My research focuses on oceanic currents and their relationship with sea level.
+Je m'appelle Sam Tiéfolo Diabaté et je suis doctorant en océanographie physique à l'université de Maynooth, en Irlande. Je m'intéresse aux courants marins et à leurs liens avec les variations régionales du niveau de la mer. Je travaille sous la direction de Dr. Gerard McCarthy au sein du projet A4 (Aigéin, Aeráid, Agus Athrú Atlantaigh).
 
-This website is intended for anyone interested in my work. Please be kind: bear in mind that english is not my native language. This website is also under permanent revision, and at times, some features may malfunction. Do not hesitate to report to me any of those.
+Ce site internet est à destination de ceux qui s'intéressent à mes travaux. Il est en permanente révision: ainsi, n'hésitez pas à me signaler les éventuels bugs rencontrés lors de votre navigation. Au 10 Janvier 2022, certains articles et notes de blog ne sont pas encore traduits en français. Je m'en chargerai progressivement.
+
+:uk: Le site est aussi accessible en anglais, en cliquant sur l'icône en haut à droite dans la barre de menus. The website is also available in english --- just click the rightmost icon in the menu bar at the top of the page. :uk:
