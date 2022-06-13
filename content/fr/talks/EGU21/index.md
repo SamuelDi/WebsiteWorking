@@ -32,9 +32,9 @@ authors:
 - Gerard D. McCarthy
 
 tags:
-- Sea Level
-- Western Boundary Currents
-- Tide Gauges
+- Niveau de la mer
+- Courants de bord ouest
+- Marégraphes
 
 
 # Is this a featured talk? (true/false)

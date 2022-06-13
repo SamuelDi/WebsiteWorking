@@ -5,7 +5,7 @@ event: European Geoscience Union General Assembly 2021
 event_url: https://doi.org/10.5194/egusphere-egu21-15743
 
 
-location: online
+location: Online
 
 
 summary:  Presentation at the 2021 EGU General Assembly.
