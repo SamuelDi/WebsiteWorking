@@ -72,9 +72,9 @@ The Gulf Stream and the Kuroshio are the two great western boundary currents of 
 
 Regional changes of sea level forced by changes in intensity and/or path of these two currents have been studied by many researchers, but always in an independent manner, i.e. with no comparison between the two regions. With my co-authors, we compared the relationship of the Gulf Stream and Kuroshio with coastal sea-level in their adjacent regions. We found both ressemblances and divergences.
 
-My talk at OSM22 presented these results, which have also been summarised in a scientific publication [(read more here)]({{< relref "/publication/journal-article" >}}). My talk was part of the session _"OC03, Towards understanding coastal sea-level variability and change"_. A recorded working version of my intervention can be read from the player below.
+My talk at OSM22 presented these results, which have also been summarised in a scientific publication [(read more here)]({{< relref "/publication/journal-article/os-17-1449-2021" >}}). My talk was part of the session _"OC03, Towards understanding coastal sea-level variability and change"_. A recorded working version of my intervention can be read from the player below.
 
-Due to COVID19, OSM22 was fully remote, as many other conferences over the past two years. This brings a number of new challenges. Nonetheless, OSM22 sessions that focused on coastal sea-level variability and change were very interesting. I believe the discussions they featured allowed many of the researchers who took part, including me, to advance in their research. I thank the organisers who did a fantastic job: Dr. Soenke Dangendorf, Dr. Marta Marcos, Dr. Alejandra Rodriguez Enriquez et Dr. Christopher Piecuch.
+Due to COVID19, OSM22 was fully remote, as many other conferences over the past two years. This brings a number of new challenges. Nonetheless, OSM22 sessions that focused on coastal sea-level variability and change were very interesting. I believe the discussions they featured allowed many of the researchers who took part, including me, to advance in their research. I thank the organisers who did a fantastic job: Dr. Soenke Dangendorf, Dr. Marta Marcos, Dr. Alejandra Rodriguez Enriquez and Dr. Christopher Piecuch.
 
 S.
 

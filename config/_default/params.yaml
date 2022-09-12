@@ -21,7 +21,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: samuel.diabate.2020@mumail.ie
+email: samuel.diabate@mu.ie
 # phone: 888 888 88 88
 address:
   street: Eolas Building, North Campus, Maynooth University
@@ -34,7 +34,7 @@ coordinates:
   latitude: '53.38469039041169'
   longitude: '-6.6015132822729'
 directions: Floor 3, corridor on the left when coming out of the stairs (on the right when taking the lift).
-office_hours: Rarely in office due to COVID19. Essentially, I am working from home. The easiest way to reach me is via mail.
+#office_hours: Rarely in office due to COVID19. Essentially, I am working from home. The easiest way to reach me is via mail.
 # appointment_url: 'https://calendly.com'
 # contact_links:
 #  - icon: comments
@@ -48,7 +48,7 @@ main_menu:
   enable: true
   align: r
   show_logo: true
-  show_language: false
+  show_language: true
   show_day_night: true
   show_search: true
   highlight_active_link: false

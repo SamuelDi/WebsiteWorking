@@ -1,5 +1,5 @@
 ---
-title: A Souvenir from Cotonou, Benin
+title: A Souvenir from Cotonou, Benin.
 date: 2018-12-15
 
 image:

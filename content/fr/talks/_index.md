@@ -10,5 +10,5 @@ view: 3
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
-  image: ""
+  image: "JC238/20220726_080933.jpg"
 ---

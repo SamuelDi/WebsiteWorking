@@ -1,5 +1,5 @@
 ---
-title: A Souvenir from Castletownsend, Ireland
+title: A Souvenir from Castletownsend, Ireland.
 date: 2019-08-01
 
 image:
