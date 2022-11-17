@@ -24,7 +24,7 @@ twitter: ''
 email: samuel.diabate@mu.ie
 # phone: 888 888 88 88
 address:
-  street: Eolas Building, North Campus, Maynooth University
+  street: Office 341, Eolas Building, North Campus, Maynooth University
   city: Maynooth
   region: Co. Kildare
   #  postcode: '94305'
@@ -33,7 +33,7 @@ address:
 coordinates:
   latitude: '53.38469039041169'
   longitude: '-6.6015132822729'
-directions: Floor 3, corridor on the left when coming out of the stairs (on the right when taking the lift).
+directions: Office 341 (Third floor, turn left when coming out of the stairs and left again when facing the Hamilton kitchen).
 #office_hours: Rarely in office due to COVID19. Essentially, I am working from home. The easiest way to reach me is via mail.
 # appointment_url: 'https://calendly.com'
 # contact_links:

@@ -6,7 +6,7 @@ title: Sam Tiéfolo Diabaté
 superuser: true
 
 # Role/position
-role: Doctorand in Physical Oceanography
+role: Doctoral researcher in Physical Oceanography
 
 # Organizations/Affiliations
 organizations:
