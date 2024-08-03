@@ -6,12 +6,12 @@ title: Sam Tiéfolo Diabaté
 superuser: true
 
 # Role/position
-role: Doctorant en Océanographie Physique
+role: Océanographe physicien
 
 # Organizations/Affiliations
 organizations:
-- name: Irish Climate Analysis and Research UnitS (ICARUS), Maynooth University
-  url: "https://www.maynoothuniversity.ie/icarus"
+- name: Météo France
+  url: "https://meteofrance.com/"
 #- name: A4: Aigéin, Aeráid, agus athrú Atlantaigh, ICARUS, Maynooth University
 #    url: "https://a-ceathair.github.io/"
 
@@ -22,13 +22,13 @@ interests:
 - Dynamique des Océans
 - Niveau de la Mer
 - Marégraphes
-- Planeurs Sous-Marins (Gliders)
+- Inondations côtières
 
 education:
   courses:
-  - course: Doctorat en Océanographie Physique (en cours)
+  - course: Doctorat en Océanographie Physique
     institution: Maynooth University, Ireland
-    year:
+    year: 2024
   - course:  Master 2 - Océanographie et Applications
     institution: Université Toulouse III Paul Sabatier, France & International Chair In Mathematical Physics and Applications, Benin
     year: 2019
@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:samuel.diabate@mu.ie'
+  link: 'mailto:samuel.diabate@meteo.fr'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -80,8 +80,8 @@ user_groups:
 - Researchers
 ---
 
-Je m'appelle Sam Tiéfolo Diabaté et je suis doctorant en océanographie physique à l'université de Maynooth, en Irlande. Je m'intéresse aux courants marins et à leurs liens avec les variations régionales du niveau de la mer. Je travaille sous la direction de Dr. Gerard McCarthy au sein du projet A4 (Aigéin, Aeráid, Agus Athrú Atlantaigh).
+Je m'appelle Sam Tiéfolo Diabaté et je suis ingénieur de recherche à Météo France (Toulouse) au sein de la direction des opérations pour la prévision, division prévision marine et océanographie (DirOP/MAR). Docteur en océanographie physique, j'ai fait ma thèse à l'université de Maynooth, en Irlande. Présentement, je travaille sur la prévision des inondations côtières dans le bassin d'Arcachon et sur la façade Atlantique de la France métropolitaine. Plus généralement, je suis intéressé par la science du niveau de la mer, et par la compréhension des courants marins.
 
-Ce site internet est à destination de ceux qui s'intéressent à mes travaux. Il est en permanente révision: ainsi, n'hésitez pas à me signaler les éventuels bugs rencontrés lors de votre navigation. Au 10 Janvier 2022, certains articles et notes de blog ne sont pas encore traduits en français. Je m'en chargerai progressivement.
+Ce site internet est à destination de ceux qui s'intéressent à mes travaux. Il est en permanente révision : ainsi, n'hésitez pas à me signaler les éventuels bugs rencontrés lors de votre navigation. Les articles et notes de blog ne sont pas traduits en français. 
 
 :uk: Le site est aussi accessible en anglais, en cliquant sur l'icône en haut à droite dans la barre de menus. The website is also available in english --- just click the rightmost icon in the menu bar at the top of the page. :uk:

@@ -10,12 +10,12 @@ main:
   - name: Publications
     url: publication
     weight: 30
-  - name: Conférences et Posters
-    url: talks
-    weight: 40
+#  - name: Conférences et Posters
+#    url: talks
+#    weight: 40
   - name: Data
     url: data
-    weight: 50
+    weight: 40
   - name: Contact
     url: contact
-    weight: 60
+    weight: 50

@@ -6,12 +6,12 @@ title: Sam Tiéfolo Diabaté
 superuser: true
 
 # Role/position
-role: Doctoral researcher in Physical Oceanography
+role: Physical Oceanographer
 
 # Organizations/Affiliations
 organizations:
-- name: Irish Climate Analysis and Research UnitS (ICARUS), Maynooth University
-  url: "https://www.maynoothuniversity.ie/icarus"
+- name: Météo France
+  url: "https://meteofrance.com/"
 #- name: A4: Aigéin, Aeráid, agus athrú Atlantaigh, ICARUS, Maynooth University
 #    url: "https://a-ceathair.github.io/"
 
@@ -22,13 +22,13 @@ interests:
 - Ocean Dynamics
 - Sea Level
 - Tide Gauges
-- Underwater Gliders
+- Coastal Flooding
 
 education:
   courses:
-  - course: PhD in Physical Oceanography (ongoing)
+  - course: PhD in Physical Oceanography
     institution: Maynooth University, Ireland
-    year:
+    year: 2024
   - course: MSc (Master 2) in Physical Oceanography
     institution: Université Toulouse III Paul Sabatier, France & International Chair In Mathematical Physics and Applications, Benin
     year: 2019
@@ -46,7 +46,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:samuel.diabate@mu.ie'
+  link: 'mailto:samuel.diabate@meteo.fr'
+# - icon: envelope
+#   icon_pack: fas
+#  link: 'mailto:samuel.diabate@mu.ie'  
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -80,7 +83,7 @@ user_groups:
 - Researchers
 ---
 
-My name is Sam Tiéfolo Diabaté, and I am a doctorand in physical oceanography at Maynooth University, Ireland. My research focuses on oceanic currents and their relationship with sea level. I work under the supervision of Dr. Gerard McCarthy and we are part of the A4 (Aigéin, Aeráid, agus athrú Atlantaigh) team of scientists.
+My name is Sam Tiéfolo Diabaté, and I am a research engineer at Météo France (Toulouse, France), within the department for marine forecast (DirOP/MAR). I recently completed a PhD in physical oceanography at Maynooth University, in Ireland, and I am now back in France. At present, my work focuses on coastal flooding along the french seaboard. More broadly, I am interested in sea-level science as well as oceanic currents. 
 
 This website is intended for anyone interested in my work. Please be kind: bear in mind that English is not my native language. This website is also under permanent revision, and at times, some features may malfunction. Do not hesitate to report to me any of those.
 

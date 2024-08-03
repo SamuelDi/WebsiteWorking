@@ -21,19 +21,19 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: samuel.diabate@mu.ie
+email: samuel.diabate@meteo.fr
 # phone: 888 888 88 88
-address:
-  street: Office 341, Eolas Building, North Campus, Maynooth University
-  city: Maynooth
-  region: Co. Kildare
-  #  postcode: '94305'
-  country: Ireland
-  country_code: IE
+address: 
+  street: 42 avenue Gaspard-Coriolis 
+  city: Toulouse
+  # region:
+  # postcode: '31057 Toulouse Cedex 1'
+  country: France
+  # country_code: FR
 coordinates:
-  latitude: '53.38469039041169'
-  longitude: '-6.6015132822729'
-directions: Office 341 (Third floor, turn left when coming out of the stairs and left again when facing the Hamilton kitchen).
+  latitude: '43.575964293748854'
+  longitude: '1.3745237931001204'
+directions: Poincaré building.
 #office_hours: Rarely in office due to COVID19. Essentially, I am working from home. The easiest way to reach me is via mail.
 # appointment_url: 'https://calendly.com'
 # contact_links:
