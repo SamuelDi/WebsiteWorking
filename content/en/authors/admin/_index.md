@@ -83,7 +83,7 @@ user_groups:
 - Researchers
 ---
 
-My name is Sam Tiéfolo Diabaté, and I am a research engineer at Météo France (Toulouse, France), within the department for marine forecast (DirOP/MAR). I recently completed a PhD in physical oceanography at Maynooth University, in Ireland, and I am now back in France. At present, my work focuses on coastal flooding along the french seaboard. More broadly, I am interested in sea-level science as well as oceanic currents. 
+My name is Sam Tiéfolo Diabaté, and I am a scientist at Météo France (Toulouse, France), within the department for marine forecast (DirOP/MAR). I recently completed a PhD in physical oceanography at Maynooth University, in Ireland, and I am now back in France. At present, my work focuses on coastal flooding along the french seaboard. More broadly, I am interested in sea-level science as well as oceanic currents. 
 
 This website is intended for anyone interested in my work. Please be kind: bear in mind that English is not my native language. This website is also under permanent revision, and at times, some features may malfunction. Do not hesitate to report to me any of those.
 

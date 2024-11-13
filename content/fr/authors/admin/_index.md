@@ -80,7 +80,7 @@ user_groups:
 - Researchers
 ---
 
-Je m'appelle Sam Tiéfolo Diabaté et je suis ingénieur de recherche à Météo France (Toulouse) au sein de la direction des opérations pour la prévision, division prévision marine et océanographie (DirOP/MAR). Docteur en océanographie physique, j'ai fait ma thèse à l'université de Maynooth, en Irlande. Présentement, je travaille sur la prévision des inondations côtières dans le bassin d'Arcachon et sur la façade Atlantique de la France métropolitaine. Plus généralement, je suis intéressé par la science du niveau de la mer, et par la compréhension des courants marins.
+Je m'appelle Sam Tiéfolo Diabaté et je suis scientifique à Météo France (Toulouse) au sein de la direction des opérations pour la prévision, division prévision marine et océanographie (DirOP/MAR). Docteur en océanographie physique, j'ai fait ma thèse à l'université de Maynooth, en Irlande. Je travaille à présent sur la prévision des inondations côtières dans le bassin d'Arcachon et sur la façade Atlantique de la France métropolitaine. Plus généralement, je suis intéressé par la science du niveau de la mer, et par la compréhension des courants marins.
 
 Ce site internet est à destination de ceux qui s'intéressent à mes travaux. Il est en permanente révision : ainsi, n'hésitez pas à me signaler les éventuels bugs rencontrés lors de votre navigation. Les articles et notes de blog ne sont pas traduits en français. 
 
