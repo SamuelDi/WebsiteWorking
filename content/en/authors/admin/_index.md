@@ -10,8 +10,10 @@ role: Physical Oceanographer
 
 # Organizations/Affiliations
 organizations:
-- name: Météo France
-  url: "https://meteofrance.com/"
+- name: Scottish Association for Marine Science
+  url: "https://www.sams.ac.uk/"
+#- name: Météo France
+#  url: "https://meteofrance.com/"
 #- name: A4: Aigéin, Aeráid, agus athrú Atlantaigh, ICARUS, Maynooth University
 #    url: "https://a-ceathair.github.io/"
 
@@ -23,6 +25,7 @@ interests:
 - Sea Level
 - Tide Gauges
 - Coastal Flooding
+- Coastally trapped waves
 
 education:
   courses:
@@ -83,8 +86,9 @@ user_groups:
 - Researchers
 ---
 
-My name is Sam Tiéfolo Diabaté, and I am a scientist at Météo France (Toulouse, France), within the department for marine forecast (DirOP/MAR). I recently completed a PhD in physical oceanography at Maynooth University, in Ireland, and I am now back in France. At present, my work focuses on coastal flooding along the french seaboard. More broadly, I am interested in sea-level science as well as oceanic currents. 
+My name is Sam Tiéfolo Diabaté, and I am a physical oceanographer at the Scottish Association for Marine Science (SAMS, Oban, UK). My work focuses on sea level as well as oceanic currents. For example, I study how changes in the Gulf Stream and in the North Atlantic circulation create sea-level variations at the coast. At SAMS, I also take part in the program observing the meridional overturning circulation in the North Atlantic ([OSNAP](https://www.o-snap.org/)). 
 
 This website is intended for anyone interested in my work. Please be kind: bear in mind that English is not my native language. This website is also under permanent revision, and at times, some features may malfunction. Do not hesitate to report to me any of those.
 
-:fr: The website is also available in French --- just click the rightmost icon in the menu bar at the top of the page. Le site est aussi accessible en français, en cliquant sur l'icône en haut à droite dans la barre de menus. :fr:
+:fr: A simplified version of this website is available in French --- just click the rightmost icon in the menu bar at the top of the page. 
+:fr: Une version basique du site est accessible en français, en cliquant sur l'icône en haut à droite dans la barre de menus. 

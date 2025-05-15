@@ -25,7 +25,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Ocean Science*"
-publication_short: "Ocean Sci"
+# publication_short: "Ocean Sci"
 
 
 

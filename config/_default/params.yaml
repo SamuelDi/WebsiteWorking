@@ -8,7 +8,7 @@
 theme: minimal
 day_night: false
 font: native
-font_size: M
+font_size: L
 # XS S M L XL
 
 # SEO
@@ -16,24 +16,24 @@ font_size: M
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: Sam Diabate, Physical Oceanographer.
+description: Sam Diabaté, Physical Oceanographer.
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: samuel.diabate@meteo.fr
+email: samuel.diabate@sams.ac.uk
 # phone: 888 888 88 88
 address: 
-  street: 42 avenue Gaspard-Coriolis 
-  city: Toulouse
+  street: Scottish Association for Marine Science, Scottish Marine Institute 
+  city: Oban
   # region:
   # postcode: '31057 Toulouse Cedex 1'
-  country: France
+  country: United Kingdom
   # country_code: FR
 coordinates:
-  latitude: '43.575964293748854'
-  longitude: '1.3745237931001204'
-directions: Poincaré building.
+  latitude: '56.45116717390186'
+  longitude: '-5.4413814148298085'
+directions: Main building.
 #office_hours: Rarely in office due to COVID19. Essentially, I am working from home. The easiest way to reach me is via mail.
 # appointment_url: 'https://calendly.com'
 # contact_links:

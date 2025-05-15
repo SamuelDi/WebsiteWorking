@@ -4,18 +4,18 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Dernières Nouvelles
-    url: post
-    weight: 20
-  - name: Publications
-    url: publication
-    weight: 30
+#  - name: Dernières Nouvelles
+#    url: post
+#    weight: 20
+#  - name: Publications
+#    url: publication
+#    weight: 30
 #  - name: Conférences et Posters
 #    url: talks
 #    weight: 40
-  - name: Data
-    url: data
-    weight: 40
+#  - name: Data
+#    url: data
+#    weight: 40
   - name: Contact
     url: contact
     weight: 50
